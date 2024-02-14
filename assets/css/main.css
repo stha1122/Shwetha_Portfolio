@@ -392,9 +392,9 @@ footer, header, hgroup, menu, nav, section {
 		  margin-bottom: 70px;
 	  }
 
-	  #skills_section .slide {
+	  /* #skills_section .slide {
 
-	  }
+	  } */
 	  .slide-track {
 		overflow: hidden;
 		display: flex;
@@ -403,11 +403,7 @@ footer, header, hgroup, menu, nav, section {
 		margin: 0 auto;
 	  }
 	  
-	  .slide-track div {
-		/* height: 400px; 
-		min-width: 300px; */
-		/* margin-left: 100px; */
-	  }
+	  
 
 	  @keyframes slide {
 		0% {
